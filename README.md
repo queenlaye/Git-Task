@@ -1,4 +1,4 @@
-# A Rock-Paper-Scissors game, a weekly task of the backend python class
+# A Rock-Paper-Scissors game, Task
 
 from random import choice
 
