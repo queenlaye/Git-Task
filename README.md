@@ -1,4 +1,4 @@
-# A Rock-Paper-Scissors game, Task
+# A Rock-Paper-Scissors , Task
 
 from random import choice
 
